@@ -25,9 +25,9 @@
     <colors>
         <option name="ADDED_LINES_COLOR" value="8AFF80" />
         <option name="ANNOTATIONS_COLOR" value="FFFFFF" />
-        <option name="ActionButton.hoverBackground" value="44475AC0" />
-        <option name="ActionButton.iconTextForeground" value="6272A4" />
-        <option name="ActionButton.pressedBackground" value="44475A" />
+        <option name="ActionButton.hoverBackground" value="353535C0" />
+        <option name="ActionButton.iconTextForeground" value="727272" />
+        <option name="ActionButton.pressedBackground" value="353535" />
         <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="212121" />
         <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="212121" />
         <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="212121" />
@@ -36,22 +36,22 @@
         <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_BACKGROUND" value="424450" />
         <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_STROKE_COLOR" value="FF79C5C0" />
         <option name="BLOCK_TERMINAL_PROMPT_SEPARATOR_COLOR" value="424450" />
-        <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="666B87" />
+        <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="424242" />
         <option name="BLOCK_TERMINAL_SELECTED_BLOCK_STROKE_COLOR" value="FF79C5" />
-        <option name="Bookmark.Mnemonic.iconBackground" value="666B87" />
-        <option name="Bookmark.Mnemonic.iconBorderColor" value="666B87" />
+        <option name="Bookmark.Mnemonic.iconBackground" value="424242" />
+        <option name="Bookmark.Mnemonic.iconBorderColor" value="424242" />
         <option name="Bookmark.Mnemonic.iconForeground" value="FFFFFF" />
         <option name="Bookmark.iconBackground" value="FF79C5" />
         <option name="BookmarkIcon.background" value="FF79C5" />
-        <option name="BookmarkMnemonicIcon.background" value="666B87" />
-        <option name="BookmarkMnemonicIcon.borderColor" value="666B87" />
+        <option name="BookmarkMnemonicIcon.background" value="424242" />
+        <option name="BookmarkMnemonicIcon.borderColor" value="424242" />
         <option name="BookmarkMnemonicIcon.foreground" value="FFFFFF" />
         <option name="CARET_COLOR" value="CCCCCC" />
-        <option name="CARET_ROW_COLOR" value="44475A" />
+        <option name="CARET_ROW_COLOR" value="353535" />
         <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
         <option name="DELETED_LINES_COLOR" value="F780BF" />
         <option name="DIAGRAM_ANNOTATION_EDGE" value="F780BF" />
-        <option name="DIAGRAM_COARSE_GRID" value="44475A" />
+        <option name="DIAGRAM_COARSE_GRID" value="353535" />
         <option name="DIAGRAM_DEFAULT_EDGE" value="F8F8F2" />
         <option name="DIAGRAM_FINE_GRID" value="424450" />
         <option name="DIAGRAM_GENERALIZATION_EDGE" value="8AFF80" />
@@ -60,22 +60,22 @@
         <option name="DIAGRAM_NODE_BACKGROUND" value="212121" />
         <option name="DIAGRAM_NODE_BORDER" value="424450" />
         <option name="DIAGRAM_NODE_HEADER" value="212121" />
-        <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND" value="44475A" />
+        <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND" value="353535" />
         <option name="DIAGRAM_NOTE_BACKGROUND" value="212121" />
         <option name="DIAGRAM_NOTE_BORDER" value="F8F8F2" />
-        <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND" value="44475A" />
+        <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND" value="353535" />
         <option name="DIAGRAM_REALIZATION_EDGE" value="9580FF" />
         <option name="DIAGRAM_SELECTED_NODE_BORDER" value="FF79C5" />
         <option name="DIAGRAM_SELECTION_BOX_BORDER" value="FF79C5" />
         <option name="DIAGRAM_SNAPPING_LINES" value="FF79C5" />
         <option name="DOCUMENTATION_COLOR" value="212121" />
-        <option name="DOC_COMMENT_GUIDE" value="666879" />
+        <option name="DOC_COMMENT_GUIDE" value="424242" />
         <option name="DOC_COMMENT_LINK" value="FEFF80" />
         <option name="FILESTATUS_ADDED" value="8AFF80" />
         <option name="FILESTATUS_COPIED" value="8AFF80" />
         <option name="FILESTATUS_DELETED" value="6272A4" />
         <option name="FILESTATUS_HIJACKED" value="FEFF80" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6272A4" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="616161" />
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="F89580" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F780BF" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F780BF" />
@@ -86,26 +86,26 @@
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80FFEA" />
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80FFEA" />
         <option name="FILESTATUS_OBSOLETE" value="F89580" />
-        <option name="FILESTATUS_SUPPRESSED" value="6272A4" />
+        <option name="FILESTATUS_SUPPRESSED" value="616161" />
         <option name="FILESTATUS_SWITCHED" value="F89580" />
         <option name="FILESTATUS_UNKNOWN" value="9580FF" />
         <option name="FILESTATUS_addedOutside" value="FEFF80" />
         <option name="FILESTATUS_changelistConflict" value="F780BF" />
         <option name="FILESTATUS_modifiedOutside" value="9580FF" />
         <option name="GUTTER_BACKGROUND" value="212121" />
-        <option name="INDENT_GUIDE" value="424450" />
+        <option name="INDENT_GUIDE" value="424242" />
         <option name="INFORMATION_HINT" value="212121" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="212121" />
-        <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="666B87" />
-        <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="44475A" />
+        <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="424242" />
+        <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="353535" />
         <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="FF79C5" />
-        <option name="JUPYTER.CELL_UNDER_CARET_EDITOR_MODE_STRIPE_COLOR" value="44475A" />
+        <option name="JUPYTER.CELL_UNDER_CARET_EDITOR_MODE_STRIPE_COLOR" value="353535" />
         <option name="JUPYTER.CODE_CELL_BACKGROUND" value="212121" />
         <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="F89580" />
         <option name="JUPYTER.GUTTER_OUTPUT_EXECUTION_COUNT" value="FEFF80" />
         <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="FF79C5" />
         <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="21222C" />
-        <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="6272A4" />
+        <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="727272" />
         <option name="LINE_NUMBERS_COLOR" value="666879" />
         <option name="LOOKUP_COLOR" value="212121" />
         <option name="METHOD_SEPARATORS_COLOR" value="424450" />
@@ -113,9 +113,9 @@
         <option name="MODIFIED_TAB_ICON" value="FF79C5" />
         <option name="MT_FILESTATUS_ADDED" value="8AFF80" />
         <option name="MT_FILESTATUS_COPIED" value="8AFF80" />
-        <option name="MT_FILESTATUS_DELETED" value="6272A4" />
+        <option name="MT_FILESTATUS_DELETED" value="808080" />
         <option name="MT_FILESTATUS_HIJACKED" value="FEFF80" />
-        <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6272A4" />
+        <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
         <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="F89580" />
         <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F780BF" />
         <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F780BF" />
@@ -126,14 +126,14 @@
         <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80FFEA" />
         <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="80FFEA" />
         <option name="MT_FILESTATUS_OBSOLETE" value="F89580" />
-        <option name="MT_FILESTATUS_SUPPRESSED" value="6272A4" />
+        <option name="MT_FILESTATUS_SUPPRESSED" value="616161" />
         <option name="MT_FILESTATUS_SWITCHED" value="F89580" />
         <option name="MT_FILESTATUS_UNKNOWN" value="9580FF" />
         <option name="MT_FILESTATUS_addedOutside" value="FEFF80" />
         <option name="MT_FILESTATUS_changelistConflict" value="F780BF" />
         <option name="MT_FILESTATUS_modifiedOutside" value="9580FF" />
-        <option name="MnemonicIcon.background" value="666B87" />
-        <option name="MnemonicIcon.borderColor" value="666B87" />
+        <option name="MnemonicIcon.background" value="424242" />
+        <option name="MnemonicIcon.borderColor" value="424242" />
         <option name="MnemonicIcon.foreground" value="FFFFFF" />
         <option name="NOTIFICATION_BACKGROUND" value="1D2228" />
         <option name="PROMOTION_PANE" value="212121" />
@@ -142,10 +142,12 @@
         <option name="RIGHT_MARGIN_COLOR" value="424450" />
         <option name="SELECTED_INDENT_GUIDE" value="F780BF" />
         <option name="SELECTED_TEARLINE_COLOR" value="F780BF" />
-        <option name="SELECTION_BACKGROUND" value="666B87" />
-        <option name="SELECTION_FOREGROUND" value="FFFFFF" />
-        <option name="SEPARATOR_BELOW_COLOR" value="424450" />
-        <option name="SOFT_WRAP_SIGN_COLOR" value="424450" />
+
+        <option name="SELECTION_BACKGROUND" value="353535"/>
+        <option name="SELECTION_FOREGROUND" value="fffbf7"/>
+        <option name="SEPARATOR_BELOW_COLOR" value="424242"/>
+        <option name="SOFT_WRAP_SIGN_COLOR" value="424242"/>
+
         <option name="STICKY_LINES_BACKGROUND" value="212121" />
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="FF79C5C0" />
         <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121" />
@@ -175,9 +177,9 @@
         <option name="VCS_ANNOTATIONS_COLOR_3" value="80FFEA" />
         <option name="VCS_ANNOTATIONS_COLOR_4" value="9580FF" />
         <option name="VCS_ANNOTATIONS_COLOR_5" value="F89580" />
-        <option name="VISUAL_INDENT_GUIDE" value="424450" />
-        <option name="WHITESPACES" value="424450" />
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="44475A" />
+        <option name="VISUAL_INDENT_GUIDE" value="424242"/>
+        <option name="WHITESPACES" value="616161"/>
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="353535" />
     </colors>
     <attributes>
         <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
