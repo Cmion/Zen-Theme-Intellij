@@ -272,6 +272,7 @@
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
+
         <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL"/>
         <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING"/>
         <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD"/>
@@ -3562,5 +3563,81 @@
         <option name="QUTE_BACKGROUND">
             <value/>
         </option>
+
+
+
+        <option name="ZIG_TYPE">
+            <value>
+                <option name="FOREGROUND" value="ffcb6b"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="ZIG_TYPE_DECL_GEN" baseAttributes="ZIG_TYPE"/>
+        <option name="ZIG_TYPE_GEN" baseAttributes="ZIG_TYPE"/>
+        <option name="ZIG_TYPE_PARAM_DECL" baseAttributes="ZIG_TYPE"/>
+        <option name="ZIG_TYPE_PARAM" baseAttributes="ZIG_TYPE"/>
+        <option name="ZIG_TYPE_DECL" baseAttributes="ZIG_TYPE"/>
+
+        <option name="ZIG_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="f8f8f2"/>
+            </value>
+        </option>
+        <option name="ZIG_VARIABLE_DECL">
+            <value>
+                <option name="FOREGROUND" value="f8f8f2"/>
+            </value>
+        </option>
+        <option name="ZIG_VARIABLE_DECL_DEPR">
+            <value>
+                <option name="FOREGROUND" value="f8f8f2"/>
+            </value>
+        </option>
+        <option name="ZIG_VARIABLE_REF_DEPL">
+            <value>
+                <option name="FOREGROUND" value="f8f8f2"/>
+            </value>
+        </option>
+
+        <option name="ZIG_FUNCTION_DECL" baseAttributes="DEFAULT_FUNCTION_DECLARATION"/>
+        <option name="ZIG_FUNCTION_GEN" baseAttributes="DEFAULT_FUNCTION_DECLARATION"/>
+        <option name="ZIG_FUNCTION_DECL_GEN" baseAttributes="DEFAULT_FUNCTION_DECLARATION"/>
+        <option name="ZIG_FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL"/>
+
+        <option name="ZIG_ENUM" baseAttributes="ZIG_STRUCT"/>
+        <option name="ZIG_ENUM_DECL" baseAttributes="ZIG_STRUCT"/>
+        <option name="ZIG_NUMBER" baseAttributes="DEFAULT_NUMBER"/>
+        <option name="ZIG_CHAR" baseAttributes="DEFAULT_NUMBER"/>
+
+        <option name="ZIG_PROPERTY_DECL" baseAttributes="DEFAULT_STATIC_METHOD"/>
+        <option name="ZIG_PROPERTY" baseAttributes="DEFAULT_STATIC_METHOD"/>
+        <option name="ZIG_LABEL" baseAttributes="ZIG_VARIABLE"/>
+        <option name="ZIG_LABEL_DECL" baseAttributes="ZIG_VARIABLE"/>
+        <option name="ZIG_STRING" baseAttributes="DEFAULT_STRING"/>
+
+        <option name="ZIG_BAD_CHARACTER">
+            <value>
+                <option name="EFFECT_COLOR" value="ff5370"/>
+                <option name="EFFECT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="ZIG_NAMESPACE">
+            <value>
+                <option name="FOREGROUND" value="f8f8f2"/>
+            </value>
+        </option>
+        <option name="ZIG_NAMESPACE_DECL">
+            <value>
+                <option name="FOREGROUND" value="f8f8f2"/>
+            </value>
+        </option>
+
+        <option name="ZIG_STRUCT_DECL">
+            <value>
+                <option name="FOREGROUND" value="ffcb6b"/>
+            </value>
+        </option>
+
+        <option name="ZIG_STRUCT" baseAttributes="ZIG_STRUCT_DECL"/>
     </attributes>
 </scheme>
