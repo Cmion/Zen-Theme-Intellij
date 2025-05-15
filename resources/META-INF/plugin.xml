@@ -55,15 +55,13 @@
     <change-notes><![CDATA[
     <h4>May 15, 2025</h4>
     <ul>
-        <li>Initial release of the theme.</li>
+        <li>Added Zig support</li>
     </ul>
-    <br>
-    <br>
+     <br>
     <h4>May 15, 2025</h4>
     <ul>
-        <li>Added zig support</li>
+        <li>Initial release of the theme.</li>
     </ul>
-
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
