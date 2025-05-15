@@ -905,7 +905,7 @@
       "Line": {
         "hoverBackground": "selBg"
       },
-      "rowHeight": "28",
+      "rowHeight": 32,
       "selectedItemAlpha": 75,
       "selectionBackground": "tree",
       "selectionForeground": "selFg",
@@ -2138,7 +2138,7 @@
       "hoverBackground": "tree",
       "hoverInactiveBackground": "table",
       "modifiedItemForeground": "accent",
-      "rowHeight": "28",
+      "rowHeight": 32,
       "selectionBackground": "tree",
       "selectionForeground": "selFg",
       "selectionInactiveBackground": "tree",
@@ -2305,7 +2305,7 @@
       },
       "PackageSearch": {
         "PackagesList": {
-          "rowHeight": 28
+          "rowHeight": 32
         },
         "PackageTag": {
           "background": "excl",
@@ -2397,7 +2397,7 @@
           "Reference": {
             "foreground": "text"
           },
-          "rowHeight": 28,
+          "rowHeight": 32,
           "unmatchedForeground": "text",
           "verticalPadding": 8
         },

@@ -26,7 +26,7 @@
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.cmion.idea</id>
     <name>Zen Theme</name>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
     <category>Themes</category>
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor url="https://www.x.com/cmiondotdev">Simeon Akpanudo</vendor>
