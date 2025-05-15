@@ -53,7 +53,17 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-    Initial release of the theme.
+    <h4>May 15, 2025</h4>
+    <ul>
+        <li>Initial release of the theme.</li>
+    </ul>
+    <br>
+    <br>
+    <h4>May 15, 2025</h4>
+    <ul>
+        <li>Added zig support</li>
+    </ul>
+
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
